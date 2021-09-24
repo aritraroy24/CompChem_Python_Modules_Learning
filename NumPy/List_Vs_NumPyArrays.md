@@ -10,6 +10,7 @@
 |Can contain different datatypes|Can contain only one datatype|
 |Mathematical operations can't be done on list|Mathematical calculations can be done|
 |Built-in funcion|To use NumPy Array, we have to import NumPy library|
+|Contaguous memory (stored in scattered manner) > Makes faster to read|Memory arranged one after another > Becomes slower w.r.t. NumPy|
 
 # Advantages of NumPy Array over List
 *   Consumes less memory
