@@ -1,3 +1,7 @@
+"""
+Part 1 Tutorial: Creating a simple line plot using the listed data
+"""
+
 # Imorting matplotlib module
 from matplotlib import pyplot as plt
 
